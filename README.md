@@ -1,4 +1,7 @@
-```%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%#OOoo******oooO##%%@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<div align="center">
+
+```
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%#OOoo******oooO##%%@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%@@%#Oo++=----:::::::::::---==+*O#%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%@@%#o+=-:::::----------:::------::::--+*O%%@%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%@@%O*=-::---------:---====+++==--:------::::-+o#%@%%%%%%%%%%%%%%%%%%%%
@@ -48,3 +51,35 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%@@@%#Oo+=-:...           ..::=+oO#%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%%##Oooo****oooO##%%@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ```
+
+# Fabricio Guimarães
+
+**Estudante de Engenharia da Computação | QA Tester | Aspirante a Dev**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-guimarães-a058b9409)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciodasuldev@gmail.com)
+
+</div>
+
+---
+
+### 🚀 Sobre mim
+
+Estudante de Engenharia da Computação, com foco em Testes de Software (QA) e caminhando também para Desenvolvimento. Aprofundando estudos em Java, Python e JavaScript, com interesse crescente em Ciência de Dados.
+
+### 🛠️ Tecnologias e ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 📌 Projetos em destaque
+
+- **Mercadin Regional** — plataforma de comércio local
+- **Plim!** — app para motoristas de aplicativo
+- **SmokEyes** — identificação de vulnerabilidades em código gerado por IA
+- **Smart Watt** — sistema de controle de energia remoto
