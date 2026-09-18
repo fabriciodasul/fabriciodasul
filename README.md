@@ -1,141 +1,46 @@
-<div align="center">
-
-```
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%#OOoo******oooO##%%@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%#Oo++=----:::::::::::---==+*O#%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%@@%#o+=-:::::----------:::------::::--+*O%%@%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%@@%O*=-::---------:---====+++==--:------::::-+o#%@%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%@%O+-:::------------*oooo**+++++*ooo+---------:::-+O%@%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%@%o=-:-------------=oO*:.          .:=oO=-----------::=*#@%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%@#*-:--------------=oO+.                .+%+=-----------::-*#@%%%%%%%%%%%%%%
-%%%%%%%%%%%%@%o-:---------------=#+.                   .+*oO*=-----------:-*#@%%%%%%%%%%%%
-%%%%%%%%%%%%O=:----------------*O=                         .=Oo------------:-o%%%%%%%%%%%%
-%%%%%%%%%@%+------------------oO.       .:----:::--:.        .#*-------------:+#@%%%%%%%%%
-%%%%%%%%@#=:-----------------*#.     .-=+**ooo******+=:.      -#=-------------:-O@%%%%%%%%
-%%%%%%%@o----------------==-=#-     -+****oooooo****+++=-.     +#----------------o%%%%%%%%
-%%%%%%%o---------------====-oO     -+*************+++++==-.    :%=----------------*%%%%%%%
-%%%%%@o-------------========oo    :+===++**oo***o***+++==-:    :#=----------------:*%%%%%%
-%%%%@O------------==========O*   .=::--::..-+*o**=::.::::::    :#====---------------o@%%%%
-%%%@#----------=============oO   -==****+=-:=*o+-..:-==-:...   =#======--------------#@%%%
-%%%%=--------===============+%: .+++=-:::--=+**+:-===-----::   Oo========-----------:=%%%%
-%%@o:-------================+#= -**++-===++++**=--==:...:--:  -%==========-----------:o@%%
-%%%=-------=================o#=.=**oooo******oo+==++++++===- .o#============-----------%%%
-%@o------=================+=o#*-=*oooooooo***oo+==+******+=- -%+=============---------:o@%
-%%=------=============+++++=o%*+=+*ooooooo+=-+=::==*o***++-:.+#===============---------=%%
-@#-----===============++++++*%**=+***ooo*+==+++=--=****++=-::oO=================--------#%
-@O----=============++++++++++#O*++*****=-=++++===--:=+++=-:.-#*=+++==============-------O@
-@o----============+++++++++++*O#O=+***+---=++++=-::-:-==--:=OO++++++==============------o@
-@*---===========+++++++++++++++*%++++**++++**+++=--====--:*#*++++++++==============-----o@
-@o--============++++++++++++++++O#-++++**+**+==+======--:+#*++++++++++==============----o@
-@o--===========+++++++++++++++++o#=--=++***o****+===--:.-%*++++++++++===============----O@
-@#--==========++++++++++++++++++o#+=-:-=+***++++==--:.. =#++++++++++++==============----#@
-%%=-=========++++++++++++++++++*#o+++=-::::::....... ...=%*++++++++++++==============--=%%
-%@*-=========+++++++++++++++++*#*:***++=--:..    ....:::.=#*+++++++++++==============--*@%
-%%#==========+++++++++++++++*o#* :*****+++++=---::.:----. =#o*+++++++++==============-=#%%
-%%%*-========+++++++++++++oOO*-  .+****+++++++=-::-===-:   .=+oOo*++================--*@%%
-%%%%=========+++++++++*oOO+:      :*****+++++=----=++=-:       :=*oOo*+=============-=%%%%
-%%%@O========+++=++oOO*+-.         =*****+++++====+++=-:          .:=*oOo*+========--O@%%%
-%%%%%o========++oOO*-.             .=*****+++++==+++=--.               :=*oO*+=====-o@%%%%
-%%%%%%*====+*oOo+-.            ...  :++***+++++++++==--.                   :+ooo+=-o%%%%%%
-%%%%%%%o=*oO*=:             ....     -++**++++++*+==+-.                       .-+oO%%%%%%%
-%%%%%%%%#*-.                ..        :+**++++***++*=.                           *@%%%%%%%
-%%%%%%%%%o.                             -+***ooo***-                           .o@%%%%%%%%
-%%%%%%%%%@#=      .                      .-+*oooo*-  .                        -#@%%%%%%%%%
-%%%%%%%%%%%%o:           ...               .=oooo:                          :o%@%%%%%%%%%%
-%%%%%%%%%%%%@%*.       .....  ....        .  -oo-                         .+%@%%%%%%%%%%%%
-%%%%%%%%%%%%%%@#+:    ... ...     ..      .   =-                        .+#@%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%@%o-    .....   ..            .                       :*#@%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%@%O+:.   ..       .                              :+O%@%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%@@%O+-.                                    .:+O%@@%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%@@%#o+-.                            .:=o#%@@%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%#Oo+=-:...           ..::=+oO#%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%%##Oooo****oooO##%%@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%```
-
-</div>
-
-<div align="center">
-
-# Fabricio Guimarães
-
-### Estudante de Engenharia da Computação | QA Tester | Aspirante a Dev
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-guimarães-a058b9409)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciodasuldev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriciodasul)
-
-![Profile Views](https://komarev.com/ghpvc/?username=fabriciodasul&color=e74c3c&style=for-the-badge&label=VISUALIZAÇÕES)
-
-</div>
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Estudante de Engenharia da Computação (9º período)
-- 🧪 Buscando estágio em **Desenvolvimento** ou **Testes de Software (QA)**
-- 🔭 Aprofundando estudos em **Java**, **Python** e **JavaScript**
-- 📊 Migrando também para **Ciência de Dados**, com curso da Microsoft concluído
-- 🌎 De mudança para Minas Gerais
-- 💬 Idiomas: Português (fluente), Inglês (intermediário), Espanhol (básico)
-
----
-
-### 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fabriciodasul&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodasul&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciodasul&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fabriciodasul&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-### 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| **Mercadin Regional** | Plataforma de comércio local em desenvolvimento |
-| **Plim!** | App para motoristas de aplicativo (Uber/99) |
-| **SmokEyes** | Identificação de vulnerabilidades em código gerado por IA |
-| **Smart Watt** | Sistema de controle de energia remoto |
-| **Cardápio Digital** | Cardápio via WhatsApp para comércio local, sem gateway de pagamento |
-
----
-
-<div align="center">
-
-*"Sempre em busca de aprendizado e novos desafios."*
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="495" viewBox="0 0 1150 495" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MDMwNWQ2Mi1lYzU1LTQwY2MtYWZmYi00M2I0YjRkMzM5MGQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNRMAW4DWL3NyH+0jZwrMHAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxYzZkZjJiZi0wZmMxLTRhOWEtOTVhZS1mODZmZjk0MTZkMTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoFH4961HfCre3Uow4ZDouWwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggv1qMFCNP373WtKDVpZyxvM/1ykK7pAlJ2dHTU+gMhvekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDH0uOv6TbleuqrWDBi4QhAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAtg8iL3SK/Hv34mjoR5tBT5JSfxF7V+hYjFKawds3hyGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUwMzA1ZDYyLWVjNTUtNDBjYy1hZmZiLTQzYjRiNGQzMzkwZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQyZjVjYWQzLWE1MWQtNDc0ZS04OTgwLWMwMDkzNjg0YjIzM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC/WowUI0/fvda0oNWlnLG8z/XKQrukCUnZ0dNT6AyG96JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggESbOOcsGeVneY0Abt6JB6gj5LJbJeMJEaR0J1SEWqcaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvjOc9svzhVhVInXQ5iGkpDZs558tCo9v5H1BFXBE3Gd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFokXERmg1qBEvAxk5ZcAzAzYrNN2LWTJbVxE7k+3Jvgm5JNJB4wQv4mkriH4qnclPmLoin++dvSkb80SwWT0Wo=</c2pa:manifest></metadata>
+<rect width="100%" height="100%" fill="#1a1b26" rx="10"/>
+<style>text { font-family: "Courier New", Consolas, monospace; font-size: 13px; }</style>
+<text x="20" y="40" fill="#c0caf5" xml:space="preserve">%%%%%%%%%%%%%@@%%#Oo*++=====+*oO#%%@@%%%%%%%%%%%%%</text>
+<text x="20" y="57" fill="#c0caf5" xml:space="preserve">%%%%%%%%%%@@%O*+=--::----===--::--+*O%@@%%%%%%%%%%</text>
+<text x="20" y="74" fill="#c0caf5" xml:space="preserve">%%%%%%%%@%O*=-::----++=-----=++=-::::-+O%@%%%%%%%%</text>
+<text x="20" y="91" fill="#c0caf5" xml:space="preserve">%%%%%%@%o=-:------++:         :*+=----::=o%@%%%%%%</text>
+<text x="20" y="108" fill="#c0caf5" xml:space="preserve">%%%%%%O=:--------*-    ......   .-*=-----:=O%%%%%%</text>
+<text x="20" y="125" fill="#c0caf5" xml:space="preserve">%%%@%*----------o:  :=+*****+=:.  .o-------:+%@%%%</text>
+<text x="20" y="142" fill="#c0caf5" xml:space="preserve">%%@#=:------===++  :++**o****++=.  ++-------:=#@%%</text>
+<text x="20" y="159" fill="#c0caf5" xml:space="preserve">%%%=------=====*+ .===--=**=:--:.  ++--------:=%%%</text>
+<text x="20" y="176" fill="#c0caf5" xml:space="preserve">%%+----========+o =+=--=+*=:--:-:  o=====-----:+%%</text>
+<text x="20" y="193" fill="#c0caf5" xml:space="preserve">@O----=========+O:+o*****o+=+++==.+o======-----:O@</text>
+<text x="20" y="210" fill="#c0caf5" xml:space="preserve">%+---=======+++*O++*ooo*=+--***+-.o+========----+%</text>
+<text x="20" y="227" fill="#c0caf5" xml:space="preserve">#---=======+++++Oo+**+==++=--=+=:=o=+========----#</text>
+<text x="20" y="244" fill="#c0caf5" xml:space="preserve">#--======++++++++oo+*++++++--==-*o++++========---#</text>
+<text x="20" y="261" fill="#c0caf5" xml:space="preserve">#=======++++++++++O==+****+==-.+o++++++========--#</text>
+<text x="20" y="278" fill="#c0caf5" xml:space="preserve">%+-====++++++++++oo+=---::::...+o++++++========-+%</text>
+<text x="20" y="295" fill="#c0caf5" xml:space="preserve">@o-====++++++++*o+:**+==--:.:--.=***++=========-o@</text>
+<text x="20" y="312" fill="#c0caf5" xml:space="preserve">%%+=====+++***+-:  =**+++=--==-  .:=+**++=====-+%%</text>
+<text x="20" y="329" fill="#c0caf5" xml:space="preserve">%%#+===+***=:.     .+**+++=++=:      .:-++*+=-=#%%</text>
+<text x="20" y="346" fill="#c0caf5" xml:space="preserve">%%@#++*+-:      .   :+**++++=-.           :-=*#@%%</text>
+<text x="20" y="363" fill="#c0caf5" xml:space="preserve">%%%%%+               .=+****=.              -%@%%%</text>
+<text x="20" y="380" fill="#c0caf5" xml:space="preserve">%%%%%%o:      .        .=oo=              :o%%%%%%</text>
+<text x="20" y="397" fill="#c0caf5" xml:space="preserve">%%%%%%@%o-    .. ..      -=             :*%@%%%%%%</text>
+<text x="20" y="414" fill="#c0caf5" xml:space="preserve">%%%%%%%%@%O=:.                       :=O%@%%%%%%%%</text>
+<text x="20" y="431" fill="#c0caf5" xml:space="preserve">%%%%%%%%%%@@%O*=:.              .:-*O%@@%%%%%%%%%%</text>
+<text x="20" y="448" fill="#c0caf5" xml:space="preserve">%%%%%%%%%%%%%@@@%#O*+==----==+*O#%@@@%%%%%%%%%%%%%</text>
+<text x="460" y="40" fill="#ff9e64" font-weight="bold">fabricio@guimaraes</text>
+<text x="460" y="57" fill="#414868">----------------------------------------</text>
+<text x="460" y="74"><tspan fill="#e0af68">. Curso: </tspan><tspan fill="#414868">..................... </tspan><tspan fill="#c0caf5">Eng. da Computação (9º período)</tspan></text>
+<text x="460" y="91"><tspan fill="#e0af68">. Instituição: </tspan><tspan fill="#414868">............... </tspan><tspan fill="#c0caf5">CEUNI-FAMETRO</tspan></text>
+<text x="460" y="108"><tspan fill="#e0af68">. Foco: </tspan><tspan fill="#414868">...................... </tspan><tspan fill="#c0caf5">QA / Dev / Ciência de Dados</tspan></text>
+<text x="460" y="125"><tspan fill="#e0af68">. IDE: </tspan><tspan fill="#414868">....................... </tspan><tspan fill="#c0caf5">VSCode, IntelliJ</tspan></text>
+<text x="460" y="142"><tspan fill="#e0af68">. CLI: </tspan><tspan fill="#414868">....................... </tspan><tspan fill="#c0caf5">Git, GitHub CLI</tspan></text>
+<text x="460" y="176"><tspan fill="#e0af68">. Languages.Programming: </tspan><tspan fill="#414868">..... </tspan><tspan fill="#c0caf5">Java, Python, JavaScript</tspan></text>
+<text x="460" y="193"><tspan fill="#e0af68">. Languages.Markup: </tspan><tspan fill="#414868">.......... </tspan><tspan fill="#c0caf5">HTML, CSS</tspan></text>
+<text x="460" y="210"><tspan fill="#e0af68">. Languages.Real: </tspan><tspan fill="#414868">............ </tspan><tspan fill="#c0caf5">Português, Inglês, Espanhol</tspan></text>
+<text x="460" y="244"><tspan fill="#e0af68">. QA.Skills: </tspan><tspan fill="#414868">................. </tspan><tspan fill="#c0caf5">Manuais, Automatizados, BDD</tspan></text>
+<text x="460" y="261"><tspan fill="#e0af68">. QA.Tools: </tspan><tspan fill="#414868">.................. </tspan><tspan fill="#c0caf5">Cypress, Selenium, Robot Fw</tspan></text>
+<text x="460" y="278"><tspan fill="#e0af68">. DevOps: </tspan><tspan fill="#414868">.................... </tspan><tspan fill="#c0caf5">Docker, Git/GitHub, AWS</tspan></text>
+<text x="460" y="295"><tspan fill="#e0af68">. Data: </tspan><tspan fill="#414868">...................... </tspan><tspan fill="#c0caf5">Power BI, Python p/ Dados</tspan></text>
+<text x="460" y="329"><tspan fill="#e0af68">. Contact: </tspan><tspan fill="#414868">................... </tspan><tspan fill="#c0caf5">----------------------------------------</tspan></text>
+<text x="460" y="346"><tspan fill="#e0af68">. LinkedIn: </tspan><tspan fill="#414868">.................. </tspan><tspan fill="#c0caf5">fabricio-guimarães</tspan></text>
+<text x="460" y="363"><tspan fill="#e0af68">. E-mail: </tspan><tspan fill="#414868">.................... </tspan><tspan fill="#c0caf5">fabriciodasuldev@gmail.com</tspan></text>
+</svg>
